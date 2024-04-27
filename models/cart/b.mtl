@@ -1,0 +1,50 @@
+# Blender 3.5.1 MTL File: 'b.blend'
+# www.blender.org
+
+newmtl Middle_wagon
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wagon_basecolor.jpg
+map_Ns wagon_roughness.jpg
+map_refl wagon_metallic.jpg
+map_Bump -bm 1.000000 wagon_normal.jpg
+
+newmtl Top_wagon
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Top_wagon_BaseColor.jpg
+map_Ns Top_wagon_Roughness.jpg
+map_refl Top_wagon_Metallic.jpg
+map_Bump -bm 1.000000 Train_wagon_Top_wagon_Normal.jpg
+
+newmtl Wagon_details
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Details_wagon_Details_BaseColor.jpg
+map_Ns Details_wagon_Details_Roughness.jpg
+map_refl Details_wagon_Details_Metallic.jpg
+map_Bump -bm 1.000000 Details_wagon_Details_Normal.png
+
+newmtl low.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wheels_wagon_BaseColor.jpg
+map_Ns Wheels_wagon_Roughness.jpg
+map_refl Wheels_wagon_Metallic.jpg
+map_Bump -bm 1.000000 Wheels_wagon_Normal.jpg

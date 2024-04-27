@@ -1,0 +1,10 @@
+{
+	"name": "grafika",
+	"version-string": "691",
+	"dependencies": [
+		"glew",
+		"glfw3",
+		"assimp",
+		"glm"
+	]
+}

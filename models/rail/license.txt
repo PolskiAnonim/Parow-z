@@ -1,0 +1,11 @@
+Model Information:
+* title:	Overgrown Train Station - Rail Segment
+* source:	https://sketchfab.com/3d-models/overgrown-train-station-rail-segment-31a9c1e70b3641b8bb503383d0ad0d4a
+* author:	Mysticbobo (https://sketchfab.com/Mysticbobo)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Overgrown Train Station - Rail Segment" (https://sketchfab.com/3d-models/overgrown-train-station-rail-segment-31a9c1e70b3641b8bb503383d0ad0d4a) by Mysticbobo (https://sketchfab.com/Mysticbobo) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
